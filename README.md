@@ -51,7 +51,7 @@ This article help me to better understanding and use of flexbox rules.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jcifu)
+- Frontend Mentor - [@jcifu](https://www.frontendmentor.io/profile/jcifu)
 - GitHub - [@jcifu](https://github.com/jcifu/)
 
 
